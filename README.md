@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 https://travel-places-advisor.netlify.app/
 
-<img src='/public/Screenshot 2022-02-09 153714.png)' style="height: 100px; width:100px;"/>
+<img src='/public/Screenshot 2022-02-09 153714.png' style="height: 100px; width:100px;"/>
 
 ## Available Scripts
 
