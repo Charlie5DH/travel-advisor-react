@@ -6,6 +6,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 https://travel-places-advisor.netlify.app/
 
+![](\public\Screenshot 2022-02-09 153714.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
